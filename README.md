@@ -11,7 +11,7 @@ Bienvenido a mi perfil profesional de desarrollo web. Soy un apasionado desarrol
 
 ## Perfil Profesional
 
-Como desarrollador web, mi experiencia y habilidades se centran en la creación de backends seguros y escalables. Utilizo PHP y Symfony para implementar soluciones que cumplen con los más altos estándares de rendimiento y seguridad. Mi experiencia abarca desde el diseño responsivo del frontend utilizando Angular y Bootstrap hasta la integración de tecnologías de contenedores como Docker para optimizar entornos de desarrollo.
+Como desarrollador web, mi experiencia y habilidades se centran en la creación de backends seguros y escalables. Utilizo PHP y Symfony para implementar soluciones que cumplen con los más altos estándares de rendimiento y seguridad. Mi experiencia abarca desde el diseño del frontend utilizando Angular y Bootstrap, hasta la integración de tecnologías de contenedores como Docker para optimizar entornos de desarrollo.
 
 Además, soy experto en el uso de Git para el control de versiones y GitHub como plataforma principal para la colaboración en proyectos.
 
@@ -19,8 +19,8 @@ Además, soy experto en el uso de Git para el control de versiones y GitHub como
 
 Estoy disponible para oportunidades de colaboración y discusiones sobre proyectos web, especialmente aquellos que requieran un enfoque sólido en el desarrollo del backend. Si desea ponerse en contacto, puede hacerlo a través de:
 
-- **Email:** tu@email.com
-- **LinkedIn:** [Tu Nombre](https://www.linkedin.com/in/tunombre/)
+- **Email:** martinhuertaalvaro@gmail.com
+- **LinkedIn:** [Álvaro Martín Huerta](https://www.linkedin.com/in/tunombre/)
 - **Sitio Web:** [tunombre.com](https://www.tunombre.com)
 
 Agradezco su interés y espero tener la oportunidad de colaborar en proyectos futuros.
