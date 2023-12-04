@@ -4,7 +4,7 @@ Bienvenido a mi perfil profesional de desarrollo web. Soy un apasionado desarrol
 
 ## Tecnologías Clave
 
-- **Backend:** PHP, Symfony
+- **Backend:** PHP, Symfony, Python
 - **Frontend:** HTML, CSS, JavaScript, Angular, Bootstrap
 - **Gestión de Contenedores:** Docker
 - **Control de Versiones:** Git, GitHub
