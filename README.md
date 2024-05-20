@@ -1,6 +1,6 @@
 # Álvaro Martín Huerta - Web Developer
 
-Bienvenido a mi perfil profesional de desarrollo web. Soy un apasionado desarrollador con un enfoque especializado en el backend, brindando soluciones robustas y eficientes para aplicaciones web de alta calidad.
+Bienvenido a mi perfil profesional de desarrollo web. Soy un apasionado desarrollador con un enfoque especializado en brindar soluciones robustas y eficientes para aplicaciones web de alta calidad.
 
 ## Tecnologías Clave
 
