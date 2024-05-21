@@ -1,4 +1,4 @@
-# Álvaro Martín Huerta - Web Developer
+# Álvaro Martín Huerta - Web Application Developer
 
 "The art of coding the future"
 
