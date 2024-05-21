@@ -13,7 +13,7 @@
 
 +1 year of experience in the software development sector, I bring a high level of logical thinking and problem-solving skills to every project I undertake. Driven by a passion for innovation and a commitment to creating solutions that not only meet current needs but also anticipate future challenges. Leveraging my logical acumen, I approach each task with a strategic mindset, ensuring efficient and effective results.
 
-## Contacto
+## Contact Info
 
 I am available for collaboration opportunities and discussions about web projects, especially those requiring a focus on development logic. If you wish to get in touch, you can do so via:
 
