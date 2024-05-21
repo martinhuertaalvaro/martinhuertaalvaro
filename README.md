@@ -1,6 +1,6 @@
 # Álvaro Martín Huerta - Web Developer
 
-Bienvenido a mi perfil profesional de desarrollo web. Soy un apasionado desarrollador con un enfoque especializado en brindar soluciones robustas y eficientes para aplicaciones web de alta calidad.
+"The art of coding the future"
 
 ## Tecnologías Clave
 
@@ -11,9 +11,7 @@ Bienvenido a mi perfil profesional de desarrollo web. Soy un apasionado desarrol
 
 ## Perfil Profesional
 
-Como desarrollador web, mi experiencia y habilidades se centran en la creación de backends seguros y escalables. Utilizo desde PHP, Symfony, Python implementando soluciones que cumplen con los más altos estándares de rendimiento y seguridad hasta el diseño del frontend utilizando Angular y Bootstrap, junto con la integración de tecnologías de contenedores como Docker para optimizar entornos de desarrollo.
-
-Además, soy experto en el uso de Git para el control de versiones y GitHub como plataforma principal para la colaboración en proyectos.
++1 year of experience in the software development sector, I bring a high level of logical thinking and problem-solving skills to every project I undertake. Driven by a passion for innovation and a commitment to creating solutions that not only meet current needs but also anticipate future challenges. Leveraging my logical acumen, I approach each task with a strategic mindset, ensuring efficient and effective results.
 
 ## Contacto
 
